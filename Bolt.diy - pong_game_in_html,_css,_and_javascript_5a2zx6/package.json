@@ -1,0 +1,11 @@
+{
+      "name": "pong-game",
+      "version": "1.0.0",
+      "description": "A simple Pong game using JavaScript and Node.js",
+      "scripts": {
+            "dev": "vite"
+      },
+      "devDependencies": {
+            "vite": "^4.5.9"
+      }
+}
